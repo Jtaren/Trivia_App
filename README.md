@@ -1,1 +1,1 @@
-Trivia game appliction.
+Trivia game application.

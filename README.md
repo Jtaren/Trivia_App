@@ -1,1 +1,1 @@
-Trivia game application from Udacity.
+Trivia game application from Udacity
